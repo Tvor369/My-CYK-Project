@@ -1,0 +1,35 @@
+S --> AB
+S --> BC
+A --> BA
+A --> a
+B --> CC
+B --> b
+C --> AB
+C --> a
+
+baaba is in the language defined by the above grammar
+baabb is NOT in the language defined by the above grammar
+
+S --> AB
+A --> AA
+A --> AB
+A --> a
+B --> CC
+C --> b
+
+aaabb is in the language defined by the above grammar
+aabbb is NOT in the language defined by the above grammar
+ababa is NOT in the language defined by the above grammar
+
+S --> AB
+A --> CD
+A --> CF
+B --> EB
+B --> c
+C --> a
+D --> b
+E --> c
+F --> AD
+
+aaabbbcc is in the language defined by the above grammar
+

@@ -1,0 +1,39 @@
+3
+
+S --> AB
+S --> BC
+A --> BA
+A --> a
+B --> CC
+B --> b
+C --> AB
+C --> a
+
+2
+baaba
+baabb
+
+S --> AB
+A --> AA
+A --> AB
+A --> a
+B --> CC
+C --> b
+
+3
+aaabb
+aabbb
+ababa
+
+S --> AB
+A --> CD
+A --> CF
+B --> EB
+B --> c
+C --> a
+D --> b
+E --> c
+F --> AD
+
+1
+aaabbbcc
